@@ -1,1 +1,2 @@
-# neural-network-charity-analysis
+# Neural Network Charity Analysis
+
